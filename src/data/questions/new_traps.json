@@ -1,0 +1,164 @@
+[
+  {
+    "id": 10500,
+    "category": "MN Traps",
+    "topic": "Code Editions",
+    "question": "MN TRAP: You are taking the MN Journeyman exam in 2025. Which edition of NFPA 13 must you use for your answers?",
+    "answer": "2016 Edition (MN State Fire Code 2020 adopts the 2016 standards)",
+    "distractors": [
+      "2025 Edition",
+      "2022 Edition",
+      "2019 Edition"
+    ],
+    "citation": "MN State Fire Code (2020) Chapter 80",
+    "code_text": "Referenced standards... NFPA 13-16.",
+    "is_mn_amendment": true,
+    "difficulty": "Hard",
+    "sprinklerType": "N/A"
+  },
+  {
+    "id": 10501,
+    "category": "MN Traps",
+    "topic": "Head Guards",
+    "question": "Common Mistake: At what specific height are sprinkler head guards REQUIRED by code?",
+    "answer": "Nowhere specific - Code only says 'where subject to mechanical injury'",
+    "distractors": [
+      "Below 7 feet",
+      "Below 8 feet",
+      "In all storage rooms"
+    ],
+    "citation": "NFPA 13 (2016) Section 6.2.8",
+    "code_text": "Sprinklers subject to mechanical injury shall be protected with listed guards.",
+    "difficulty": "Medium",
+    "sprinklerType": "N/A"
+  },
+  {
+    "id": 10502,
+    "category": "MN Traps",
+    "topic": "Painting",
+    "question": "Common Mistake: You find a sprinkler head with a small spot of paint on the bulb. What is the proper fix?",
+    "answer": "Replace the sprinkler (Do NOT clean it)",
+    "distractors": [
+      "Clean it carefully with solvent",
+      "Scrape it off with a fingernail",
+      "Leave it if it's less than 50% covered"
+    ],
+    "citation": "NFPA 25 (2011) Section 5.2.1.1.1",
+    "code_text": "Sprinklers... painted... shall be replaced.",
+    "difficulty": "Medium",
+    "sprinklerType": "N/A"
+  },
+  {
+    "id": 10503,
+    "category": "MN Traps",
+    "topic": "License Display",
+    "question": "MN TRAP: While working on a jobsite, where must your Journeyman card be?",
+    "answer": "On your person (or readily available) at all times",
+    "distractors": [
+      "In your truck",
+      "Framed at the office",
+      "You just need the number memorized"
+    ],
+    "citation": "MN Rules 7512.2400",
+    "code_text": "Shall possess the license card... while performing the work.",
+    "is_mn_amendment": true,
+    "difficulty": "Easy",
+    "sprinklerType": "N/A"
+  },
+  {
+    "id": 10504,
+    "category": "MN Traps",
+    "topic": "Thread Tape",
+    "question": "Common Mistake: When applying Teflon tape to a sprinkler, where do you stop?",
+    "answer": "Leave the first thread or two bare (prevents tape shards entering pipe)",
+    "distractors": [
+      "Cover all threads completely",
+      "Cover the orifice",
+      "Tape doesn't matter"
+    ],
+    "citation": "Trade Practice / Manufacturer Specs",
+    "code_text": "Do not apply tape to the first thread.",
+    "difficulty": "Medium",
+    "sprinklerType": "N/A"
+  },
+  {
+    "id": 10505,
+    "category": "MN Traps",
+    "topic": "CPVC Glue",
+    "question": "Common Mistake: What happens if you use 'Orange' CPVC cement on a sprinkler fitting?",
+    "answer": "You likely void the warranty (Sprinklers usually require specific 'Red' One-Step cement or similar listed product)",
+    "distractors": [
+      "It seals better",
+      "Nothing, glue is glue",
+      "It requires a primer"
+    ],
+    "citation": "Manufacturer Listings (Spears/Tyco)",
+    "code_text": "Use only listed cements... specifically approved for fire protection.",
+    "difficulty": "Hard",
+    "sprinklerType": "CPVC"
+  },
+  {
+    "id": 10506,
+    "category": "MN Traps",
+    "topic": "Inspector's Test",
+    "question": "Common Mistake: What size orifice should be in the Inspector's Test Valve?",
+    "answer": "It must match the SMALLEST orifice sprinkler in the system",
+    "distractors": [
+      "Always 1/2 inch",
+      "Always 1 inch",
+      "It matches the riser size"
+    ],
+    "citation": "NFPA 13 (2016) Section 8.17.4.1.1",
+    "code_text": "Orifice... shall be equal to the smallest... orifice of any sprinkler in the system.",
+    "difficulty": "Medium",
+    "sprinklerType": "N/A"
+  },
+  {
+    "id": 10507,
+    "category": "MN Traps",
+    "topic": "Dry Systems",
+    "question": "Common Mistake: Why do we use 'Return Bends' on pendant heads in a dry system?",
+    "answer": "To prevent sediment/scale from settling in the sprinkler nipple and clogging it",
+    "distractors": [
+      "To make it look nice",
+      "To reduce water pressure",
+      "To trap air in the head"
+    ],
+    "citation": "NFPA 13 (2016) Section 8.15.19.2",
+    "code_text": "Return bends shall be used... to avoid accumulation of sediment.",
+    "difficulty": "Medium",
+    "sprinklerType": "Dry"
+  },
+  {
+    "id": 10508,
+    "category": "MN Traps",
+    "topic": "Hydrostatic Test",
+    "question": "MN TRAP: What is the required duration of the 200 psi hydrostatic test?",
+    "answer": "2 hours",
+    "distractors": [
+      "1 hour",
+      "30 minutes",
+      "24 hours"
+    ],
+    "citation": "NFPA 13 (2016) Section 25.2.1.1",
+    "code_text": "Hydrostatically tested... for 2 hours.",
+    "difficulty": "Easy",
+    "sprinklerType": "N/A"
+  },
+  {
+    "id": 10509,
+    "category": "MN Traps",
+    "topic": "Distance to Ceiling",
+    "question": "Common Mistake: What is the MAX distance a standard pendant sprinkler can be from the ceiling?",
+    "answer": "12 inches",
+    "distractors": [
+      "18 inches",
+      "6 inches",
+      "24 inches"
+    ],
+    "citation": "NFPA 13 (2016) Section 8.6.4.1.1",
+    "code_text": "Max distance... shall be 12 in.",
+    "difficulty": "Medium",
+    "sprinklerType": "N/A"
+  }
+]

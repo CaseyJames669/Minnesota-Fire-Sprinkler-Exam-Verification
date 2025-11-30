@@ -1,0 +1,17 @@
+[
+    {
+        "id": "media_sample_001",
+        "question": "What type of sprinkler system is shown in the diagram?",
+        "options": [
+            "Wet Pipe System",
+            "Dry Pipe System",
+            "Preaction System",
+            "Deluge System"
+        ],
+        "correct": 1,
+        "explanation": "The diagram shows a dry pipe valve with an air compressor, indicating a Dry Pipe System used in areas subject to freezing.",
+        "category": "NFPA 13",
+        "image": "https://placehold.co/600x400/png?text=Dry+Pipe+Valve+Diagram",
+        "difficulty": "Medium"
+    }
+]
